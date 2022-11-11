@@ -1,5 +1,5 @@
 
-Below is the output of this script:
+Below are the outputs of this script:
 
 ![](ICDQ3Pic1.png)
 
